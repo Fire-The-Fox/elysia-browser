@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Elysia Integration",
+  "version": "1.0",
+  "description": "HTTP Client + connector made for elysia",
+
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png"
+  },
+
+  "devtools_page": "page.html"
+}
